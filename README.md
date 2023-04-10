@@ -2,7 +2,7 @@
 
 ### I would love to see you contribute 👩‍💻👩‍💻, feel free to contribute and get awesome GitHub achievements :)
 
-![LMS](http://full/path/to/img.jpg "Optional title")
+![LMS](https://github.com/Kabhishek18/learn-management-system/blob/main/static/img/dashboard.jpg "Learning management system ")
 
 
 # Installation
